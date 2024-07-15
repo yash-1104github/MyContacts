@@ -9,7 +9,7 @@ Live  Demo:
 ### TECHNOLOGIES USED
 #### Frontend
 **HTML5**: Provides the structure of the web application.   
-**CSS3**: Styles the application, making it visually appealing and user-friendly.  
+**TailwindCSS**: Styles the application, making it visually appealing and user-friendly.  
 **JavaScript** (ES6): Adds interactivity and dynamic functionality to the application.
 
 #### Library 
