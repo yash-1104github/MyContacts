@@ -2,7 +2,7 @@
 
 ## MyContact 
 
-Welcome to the MyContact - Mobile Application! This project is a simple yet effective, built with HTML,CSS,JavaScript,React and Vite and Firebase
+Welcome to the MyContact - Mobile Application! This project is a simple yet effective, built with HTML,TailwindCSS,JavaScript,React 
 
 Live  Demo: 
 
