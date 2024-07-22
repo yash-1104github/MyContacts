@@ -1,3 +1,5 @@
+// To maintain the error and styling in code
+
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },
